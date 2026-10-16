@@ -45,10 +45,14 @@ java structural.AdapterPattern
 
 A personal reference to understand when and why each pattern is used, with minimal code and no framework dependencies.
 To learn more about these concepts:
--> Visit my personal Summaries in Notion:
-  #### Definition and Creational Patterns: [First Lesson](https://app.notion.com/p/MCA-14933a58d4b880cea601d2567338b0c1?source=copy_link)
-  #### Structural Patterns: [Second Lesson](https://app.notion.com/p/Structural-Patterns-16c33a58d4b880d98d57f75813251b8e?source=copy_link)
-  #### Behavioral Patterns: [Third Lesson](https://app.notion.com/p/Behavioral-Patterns-16c33a58d4b8807a8dd6d4e2d1035474?source=copy_link)
+
+## Study Notes
+ 
+Visit my personal Summaries in Notion for more information:
+
+- [Definition and Creational Patterns](https://app.notion.com/p/MCA-14933a58d4b880cea601d2567338b0c1?source=copy_link)
+- [Structural Patterns](https://app.notion.com/p/Structural-Patterns-16c33a58d4b880d98d57f75813251b8e?source=copy_link)
+- [Behavioral Patterns](https://app.notion.com/p/Behavioral-Patterns-16c33a58d4b8807a8dd6d4e2d1035474?source=copy_link)
 
 ## Author
 
